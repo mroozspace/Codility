@@ -1,2 +1,6 @@
-BinaryGap - https://app.codility.com/demo/results/trainingTGVKKM-P6U/
-FrogJmp - https://app.codility.com/demo/results/trainingGJ7GD2-BNA/
+Iterations
+  BinaryGap - https://app.codility.com/demo/results/trainingTGVKKM-P6U/
+Arrays  
+  Cyclic Rotation - https://app.codility.com/demo/results/training2Q9TW7-Z78/
+Time Complexity
+  FrogJmp - https://app.codility.com/demo/results/trainingGJ7GD2-BNA/
